@@ -73,7 +73,7 @@ const RegisterPage = () => {
   return (
     <div className="container">
       <div>
-        <h1>Registration Form</h1>
+        <h1>Register</h1>
       </div>
 
       <form className="form" onSubmit={(e) => registerUser(e)}>

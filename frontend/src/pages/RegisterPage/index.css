@@ -11,7 +11,7 @@
     flex-direction: column;
     justify-content: flex-start;
 
-    margin-top: 0.25rem;
+    margin-top: 0.30rem;
     padding: 1rem;
 
     font-size: 1.15rem;
@@ -20,7 +20,7 @@
 }
 
 .inputField input {
-    width: 20rem;
+    width: 18rem;
 }
 
 .inputField select {

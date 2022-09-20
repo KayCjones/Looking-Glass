@@ -28,8 +28,6 @@ const TherapistDashboard = () => {
             return (
                 <div key={`entry-${entry.title}`}>
                     <p>Title: {entry.title}</p>
-                    <p>Description: {entry.description}</p>
-                    <pre>Content: {entry.content}</pre>
                     <p>My Current Weather: {entry.weather}</p>
                     <p>Mood: {entry.mood=="GOOD"?"😄":"😞"}</p>
                 </div>
